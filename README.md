@@ -1,7 +1,6 @@
 - 👋 Hey!! x15-rahul is here
 - 👀 Interested in Web Technologies
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... biswasrahul97@outlook.com
 
 <!---
