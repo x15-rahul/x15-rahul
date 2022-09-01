@@ -1,7 +1,7 @@
 - 👋 Hey!! Rahul Biswas is here
-- 👀 Interested in Web Technologies
-- 🌱 I’m currently learning WordPress Development
-- 📫 How to reach me ... biswasrahul123@yahoo.com
+- 😍 Interested in Web Technologies
+- 💻 I’m currently learning WordPress Development
+- ✉️ How to reach me ... biswasrahul123@yahoo.com
 
 <!---
 x15-rahul/x15-rahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
