@@ -1,6 +1,6 @@
 - 👋 Hey!! Rahul Biswas is here
 - 😍 Interested in Web Technologies
-- 💻 I’m currently learning WordPress Development
+- 💻 I’m currently learning Laravel
 - ✉️ How to reach me ... biswasrahul123@yahoo.com
 
 <!---
